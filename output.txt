@@ -1,0 +1,10 @@
+Average sentiment of all tweets: 0.05
+Total number of tweets: 1682
+Number of positive tweets: 499
+Number of negative tweets: 420
+Number of neutral tweets: 763
+Number of favorited tweets: 602
+Average sentiment of favorited tweets: 0.15
+Number of retweeted tweets: 175
+Average sentiment of retweeted tweets: 0.06
+Top five countries by average sentiment: Romania, New Zealand, Norway, Haiti, Ukraine
