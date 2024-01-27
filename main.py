@@ -1,9 +1,4 @@
-"""
-Fayzan Malik
-251379967
-November 17th, 2023
-gets user input for tweet file, keyword file, and output file and writes a sentiment analysis report to the output file
-"""
+
 
 # Import the sentiment_analysis module
 from sentiment_analysis import *
