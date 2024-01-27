@@ -1,9 +1,4 @@
-"""
-Fayzan Malik
-251379967
-November 17th, 2023
-defines functions that create and write a sentiment analysis report ot tweets to a .txt output file, given a .tsv keyword file and a .csv tweet file
-"""
+
 def read_keywords(keyword_file_name): #gets name of keyword file, returns a dictionary of keywords and sentiment values, if file doenst exist, IOError is raised and empty dictionary returned
     totalList = []
     totalDict = {}
